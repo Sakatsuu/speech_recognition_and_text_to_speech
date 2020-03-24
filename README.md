@@ -16,7 +16,7 @@ https://developer.android.com/reference/android/speech/tts/TextToSpeech
 
 開発環境
 
-Android Studio
+Android Studio（Version 3.4)
 
 使用機器
 Mac Book Pro(macOS Catalina バージョン 10.15.3)
